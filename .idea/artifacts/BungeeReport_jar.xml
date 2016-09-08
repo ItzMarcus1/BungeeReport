@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="BungeeReport:jar">
+    <output-path>H:/Local Servers/Test servers/Bungeecord/Proxy/plugins</output-path>
+    <root id="archive" name="BungeeReport.jar">
+      <element id="module-output" name="BungeeReport" />
+    </root>
+  </artifact>
+</component>
